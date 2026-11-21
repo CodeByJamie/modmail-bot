@@ -1,0 +1,11 @@
+{
+	"name": "@modmail/core",
+	"module": "index.ts",
+	"type": "module",
+	"devDependencies": {
+		"@types/bun": "1.4.4"
+	},
+	"peerDependencies": {
+		"typescript": "^7"
+	}
+}

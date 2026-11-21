@@ -1,0 +1,15 @@
+{
+	"name": "modmail",
+	"module": "index.ts",
+	"type": "module",
+	"private": true,
+    "workspaces": [
+        "apps/*"
+    ],
+	"devDependencies": {
+		"@types/bun": "1.4.4"
+	},
+	"peerDependencies": {
+		"typescript": "^7"
+	}
+}
